@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "deepl": "^1.0.13",
+    "deepl-node": "^1.13.0",
+    "jsdom": "^24.1.0"
+  }
+}
